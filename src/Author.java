@@ -8,7 +8,6 @@
  */
 public class Author {
   public static void main(String[] _args) {
-
   }
 
   private String name;
